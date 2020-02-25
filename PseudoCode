@@ -1,0 +1,51 @@
+print ("EU Voting Calculator")
+
+Qualified Majority
+
+if population voteyes == >65%:
+    country == voteyes
+
+if population voteno == >35%:
+    country == voteno
+
+if country voteyes == >55%:
+    (finalresult) == approved
+    
+if countries voteno == >45%:
+    (finalresult) == denied
+
+Reinforced Qualified Majority
+
+if population voteyes == >65%:
+    country == voteyes
+
+if population voteno == >35%:
+    country == voteno
+
+if country voteyes == >72%:
+    (finalresult) == approved
+    
+if countries voteno == >28%:
+    (finalresult) == denied
+
+Simple Majority
+
+if country voteyes == >50%:
+    country == voteyes
+
+if country voteno == >50%:
+    country == voteno
+
+Unanimity
+
+if country voteyes == 100%:
+    country == voteyes
+
+if country voteno == >0%:
+    country == voteno
+    
+
+
+
+
+
